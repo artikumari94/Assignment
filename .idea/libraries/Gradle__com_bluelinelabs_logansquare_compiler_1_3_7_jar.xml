@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bluelinelabs:logansquare-compiler:1.3.7@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bluelinelabs/logansquare-compiler/1.3.7/d24186e632f996b9c0162610d91acc1a50da1682/logansquare-compiler-1.3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bluelinelabs/logansquare-compiler/1.3.7/65dc682dfe73eac2d7cd0549d3621714134188c0/logansquare-compiler-1.3.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bluelinelabs/logansquare-compiler/1.3.7/7a206f62481e68081645360dde84e435eb466916/logansquare-compiler-1.3.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

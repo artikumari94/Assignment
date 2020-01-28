@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996846466337",
+    "firebase_url": "https://laborders-af846.firebaseio.com",
+    "project_id": "laborders-af846",
+    "storage_bucket": "laborders-af846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996846466337:android:106cd08b2bf6ba9f",
+        "android_client_info": {
+          "package_name": "com.books.orders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996846466337-p628ja0emn86qv029643eu1u2afvuohl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.books.orders",
+            "certificate_hash": "03ceeea5c7fc9277383d41cc2149eca611a54ad7"
+          }
+        },
+        {
+          "client_id": "996846466337-2g43umivvti3knf3g9tms7tckhjuiir0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVBQJZocoysxhF2CL9jiFtGpineLF-0ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996846466337-2g43umivvti3knf3g9tms7tckhjuiir0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
